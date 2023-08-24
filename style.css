@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    padding: 15px;
+	width: 450px;
+	margin:15% auto auto;
+}
+.back{
+    background-color: antiquewhite;
+
+}    
+
+#container-form {
+  
+    
+    width: 190px;
+    padding: 5%
+}
+
+#logo {
+    padding: 10px;
+    margin: 25px ;
+    
+    
+}
+
+
+input {
+   
+    background-color: antiquewhite;
+    width: 29em ;
+    padding: 7px;
+    border: none;
+    border-bottom: 1px solid black;
+  }
+  
